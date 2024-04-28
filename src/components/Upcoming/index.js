@@ -5,7 +5,7 @@ import MovieCard from '../MovieCard'
 import NavBar from '../NavBar'
 import Pagination from '../Pagination'
 
-// import './index.css'
+import './index.css'
 
 class Upcoming extends React.Component {
   state = {
